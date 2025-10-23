@@ -1,8 +1,40 @@
-- 👋 Hi, I’m Reflex
-- 👀 I’m interested in automation development and reverse enginerring.
-- 🌱 I’m currently learning something probably
+**Computer Science @ The University of Texas at Austin** | Expected Graduation: **May 2027**  
 
-<!---
-Reflex0002/Reflex0002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+<p align="center">
+  <a href="mailto:miller@millervargas.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/millervargas"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+---
+ 
+Currently, I serve as a Quantitative Analyst at Texas Undergraduate Computational Finance, where I contribute to weekly market reports, quantitative research, and strategy backtesting using Python, JavaScript, and Pandas.
+
+Previously, I built automation software targeting limited-release products such as sneakers, collectibles, and other niche merchandise.
+My work involved reverse engineering, system design, and developing and analyzing network request flows, authentication mechanisms, and REST APIs, alongside full-stack implementation of cross-platform desktop applications.
+
+---
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,java,c,react,nextjs,nodejs,electron,html,css,cloudflare,mongodb,supabase,git,github,vercel,heroku" />
+</p>
+
+---
+
+## Check out my stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=millervargas&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=millervargas&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Current Focus
+- Quantitative trading systems
+- Prediction Market Alpha
+- Building Full-stack web applications 
+- Distributed automation and data pipelines  
+- Applied AI & algorithmic analysis  
+- Learning Rust
