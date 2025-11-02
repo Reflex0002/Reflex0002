@@ -22,15 +22,6 @@ My work involved reverse engineering, system design, and developing and analyzin
 
 ---
 
-## Check out my stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Reflex0002&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reflex0002&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 📈 Current Focus
 - Quantitative trading systems
 - Prediction Market Alpha
